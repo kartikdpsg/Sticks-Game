@@ -1,1 +1,1 @@
-# Sticks-Game
+This programme is an interactive programme, in which at first, it will ask from user whether user wants to play Single Player or AI vs AI. After that, it will ask the total number of sticks. After this, the game will continue and at last, the winner will be printed.
