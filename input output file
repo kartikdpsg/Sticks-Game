@@ -1,0 +1,104 @@
+1. Type 1 for playing against AI
+2. Type 2 for AI vs AI
+1
+Enter no. of sticks
+14
+AI's chance
+Number of sticks left:  14
+AI picked  1  sticks
+Number of sticks left:  13
+select the number of sticks(from 1 to3):
+1
+Number of sticks left:  12
+AI picked  3  sticks
+Number of sticks left:  9
+select the number of sticks(from 1 to3):
+2
+Number of sticks left:  7
+AI picked  2  sticks
+Number of sticks left:  5
+select the number of sticks(from 1 to3):
+3
+Number of sticks left:  2
+AI picked 1 stick
+AI won
+
+1. Type 1 for playing against AI
+2. Type 2 for AI vs AI
+1
+Enter no. of sticks
+21
+AI's chance
+Number of sticks left:  21
+AI picked  2  sticks
+Number of sticks left:  19
+select the number of sticks(from 1 to3):
+3
+Number of sticks left:  16
+AI picked  3  sticks
+Number of sticks left:  13
+select the number of sticks(from 1 to3):
+1
+Number of sticks left:  12
+AI picked  3  sticks
+Number of sticks left:  9
+select the number of sticks(from 1 to3):
+5
+enter a value from 1 to 3:
+2
+Number of sticks left:  7
+AI picked  2  sticks
+Number of sticks left:  5
+select the number of sticks(from 1 to3):
+1
+Number of sticks left:  4
+AI picked  3  sticks
+AI won
+
+1. Type 1 for playing against AI
+2. Type 2 for AI vs AI
+2
+Enter no. of sticks
+14
+Number of sticks left:  14
+AI 2  picked  1  sticks
+Number of sticks left:  13
+AI 1  picked  2  sticks
+Number of sticks left:  11
+AI 2  picked  2  sticks
+Number of sticks left:  9
+AI 1  picked  2  sticks
+Number of sticks left:  7
+AI 2  picked  2  sticks
+Number of sticks left:  5
+AI 1  picked  2  sticks
+Number of sticks left:  3
+AI 2  picked  2  sticks
+AI2 won
+
+1. Type 1 for playing against AI
+2. Type 2 for AI vs AI
+2
+Enter no. of sticks
+21
+Number of sticks left:  21
+AI 2  picked  2  sticks
+Number of sticks left:  19
+AI 1  picked  2  sticks
+Number of sticks left:  17
+AI 2  picked  2  sticks
+Number of sticks left:  15
+AI 1  picked  2  sticks
+Number of sticks left:  13
+AI 2  picked  2  sticks
+Number of sticks left:  11
+AI 1  picked  2  sticks
+Number of sticks left:  9
+AI 2  picked  2  sticks
+Number of sticks left:  7
+AI 1  picked  2  sticks
+Number of sticks left:  5
+AI 2  picked  2  sticks
+Number of sticks left:  3
+AI 1  picked  2  sticks
+AI1 won
